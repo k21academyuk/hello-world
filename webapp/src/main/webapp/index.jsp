@@ -2,6 +2,9 @@
 <html>
 <head>
 <style>
+body {
+  background-color: lightblue;
+}
 h1 {text-align: center;}
 h2 {text-align: center;}
 p {text-align: center;}
